@@ -1,3 +1,6 @@
 ALFA - Zarate Taiel
 BETA - Ledesma Matias
 GAMMA - Carazo Agustina
+
+a-Para actualizar mi repositorio al estado que esté el repositorio del fork se realiza $ git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+b-Si ALFA puede actualizar su fork al estado del fork de GAMMA.
